@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  height: 12vmin;
+}
+.footer-container {
+  background-color: #008b8b;
+}
+
+.container-fluid {
+  color: white;
+  text-shadow: 2px 2px #000000;
+  font-weight: bold;
+  
+}
+
+.footer-container p {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.navbar{
+  background-color:#20b2aa;
+}
+
+a.nav-link a {
+  color:white;
+  text-shadow: 2px 2px #000000;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.jumbotron {
+  background: url('stock-background.jpeg') no-repeat center center;
+  background-size: cover;
+  height: 110vmin;
+  margin-bottom: 0;
+}
